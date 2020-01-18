@@ -1,0 +1,44 @@
+http://www.baabdath.gov.lb/
+ 
+fullname      username           password
+ 
+Baabdath    baabdathAdmin   admin#Pass$!903113
+
+Host's addresses:
+__________________
+
+baabdath.gov.lb.                         8776     IN    A        107.180.4.52
+
+
+Name Servers:
+______________
+
+ns27.domaincontrol.com.                  84496    IN    A        97.74.103.14
+ns28.domaincontrol.com.                  84496    IN    A        173.201.71.14
+
+
+Mail (MX) Servers:
+___________________
+
+mail.baabdath.gov.lb.                    8897     IN    A        107.180.4.52
+                                                                                                                                                                                                                                                                                                                                      
+Brute forcing with /usr/share/sniper/wordlists/vhosts.txt:                                                                                                                                         
+___________________________________________________________                                                                                                                                    
+admin.baabdath.gov.lb.                   9040     IN    A        107.180.4.52                                                                                                                      
+ftp.baabdath.gov.lb.                     1965     IN    CNAME    baabdath.gov.lb.
+baabdath.gov.lb.                         8745     IN    A        107.180.4.52
+mail.baabdath.gov.lb.                    8859     IN    A        107.180.4.52
+www.baabdath.gov.lb.                     1516     IN    CNAME    baabdath.gov.lb.
+baabdath.gov.lb.                         8716     IN    A        107.180.4.52
+
+                                                                         
+baabdath.gov.lb class C netranges:                                                                          
+___________________________________                                                                                       107.180.4.0/24                                                                            
+
+baabdath.gov.lb ip blocks:                                                                                             ___________________________                                                                                               107.180.4.52/32    
+
+ADMIN PAGE H4CKED LULZ no need to go further #DEDSQUAD
+WE ARE DEDSQUAD 
+#GHOSTSEC 
+
+                                                                                                                                                                                                     
